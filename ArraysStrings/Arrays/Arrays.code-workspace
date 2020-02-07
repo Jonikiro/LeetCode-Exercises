@@ -1,13 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "PivotIndex"
-		},
-		{
 			"path": "TwiceAsLarge"
 		},
 		{
 			"path": "PlusOne"
+		},
+		{
+			"path": "PivotIndex"
 		}
 	]
 }
